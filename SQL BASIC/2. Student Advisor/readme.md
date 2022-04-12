@@ -1,4 +1,7 @@
 --------------------------------------------------------
+
+SQL CERTIFICATE BASIC - SQL (Basic) - Skills certification test - Hackerrank
+
 2. Student Advisor
 A university has started a student-advisor plan which assigns a professor as an advisor to each student for academic guidance. Write a query to find the roll number and names of students who either have a male advisor with a salary of more than 15,000 or a female advisor with a salary of more than 20,000.
 
